@@ -1,14 +1,21 @@
 # Cognifyz-Technologies-Intern
 
 Insights of Restaurant Review Analysis
+
 1.Import Libraries
 
 2.Get Data
+
 3.DataSet Cleaning
+
 4.No of Restaurant
+
 5.Countries with code
+
 6.City wise count of Restaurant
+
 7.Cuisiness Combination
+
 8.Average of Cuisines with aggragate rating
 9.Highest Average cost for two
 10.Total currency of average cost for two
